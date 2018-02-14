@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tooling on Apache Camel</title>
+    <link>https://camel.apache.org/categories/Tooling/</link>
+    <description>Recent content in Tooling on Apache Camel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://camel.apache.org/categories/Tooling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New release of VS Code Language Support for Apache Camel 0.0.29</title>
+      <link>https://camel.apache.org/blog/2020/12/VSCode-LanguageSupport-0.0.29/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://camel.apache.org/blog/2020/12/VSCode-LanguageSupport-0.0.29/</guid>
+      <description>A new release of VS Code Language Support for Apache Camel 0.0.29 is available. It includes an interesting set of new features and two important bugfixes.
+API based components support Camel has several API based components which are source code generated from external API. In 3.6.0, finer grained information is available through additional metadata (Camel catalog). This release is leveraging these metadata to propose improved completion, documentation and validation for these APU based components.</description>
+    </item>
+    
+    <item>
+      <title>New release of VS Code Language Support for Apache Camel 0.0.28</title>
+      <link>https://camel.apache.org/blog/2020/10/VSCode-LanguageSupport-0.0.28/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://camel.apache.org/blog/2020/10/VSCode-LanguageSupport-0.0.28/</guid>
+      <description>A new release of VS Code Language Support for Apache Camel 0.0.28 is available. It includes an interesting set of new features.
+Camel 3.6.0 upgrade Camel 3.6.0 catalog is now provided by default. The 3.6.0 version is also leveraged internally.
+Camel Kafka Connector Properties file improvements Previously, the support for Camel Kafka Connector was limited to Camel URI in camel.(sink|source).url property value. This release adds support for the list of properties provided for each parameter instead of using a potentially long Camel URI.</description>
+    </item>
+    
+    <item>
+      <title>Upgrading to Camel 3.0.0 with Windup</title>
+      <link>https://camel.apache.org/blog/2020/09/windup/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://camel.apache.org/blog/2020/09/windup/</guid>
+      <description>We&amp;rsquo;ll show you how Windup can help you plan and estimate your upgrade to Camel 3</description>
+    </item>
+    
+    <item>
+      <title>Language Support for Apache Camel - VS Code extension 0.0.20</title>
+      <link>https://camel.apache.org/blog/2019/12/LanguageSupportTooling-0.0.20/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://camel.apache.org/blog/2019/12/LanguageSupportTooling-0.0.20/</guid>
+      <description>During the past months, several noticeable new features have been added to improve the developer experience of application based on Apache Camel. These updates are available in the 0.0.20 release of Visual Studio (VS) Code extension.
+Before going into the list of updates in detail, I want to note that I mentioned in the title the VS Code Extension release because VS Code extension is covering the broader set of new features.</description>
+    </item>
+    
+  </channel>
+</rss>
